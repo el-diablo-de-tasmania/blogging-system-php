@@ -67,5 +67,5 @@
         </a>
     </ul>
 
-    <p class="footer_text_fd"> Copyright 2022. Shaknow.com | Last Updated 14 November 2022 </p>
+    <p class="footer_text_fd"> Copyright 2022. pluztobiz.com | Last Updated 14 November 2022 </p>
 </div> <!--- footer box 2 -->
